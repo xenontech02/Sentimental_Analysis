@@ -1,0 +1,5 @@
+pandas
+scikit-learn
+nltk>=3.8
+tk
+numpy
